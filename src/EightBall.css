@@ -1,0 +1,38 @@
+
+.EightBall{
+  color: white;
+  border-radius: 100%;
+  margin: auto;
+  max-width: 30vw;
+  height: 30vw;
+  margin-top: 50px;
+  display: flex;
+}
+
+.EightBall p {
+  margin: auto;
+
+}
+
+.EightBall:hover{
+  transition: .3s;
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+.green{
+ background-color: green;
+}
+
+.goldenrod {
+  background-color: yellow;
+  color: black;
+}
+
+.red {
+ background-color: red;
+}
+
+.black {
+  background-color: black;
+}
